@@ -10,7 +10,8 @@
 |-------|---------|
 | Title | Qalbi Ma3ak – My Heart is with You |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 23, 2026 |
+| Lyric Writing Date | April 20, 2026 |
+| Song Page | [Open Song Page](https://imabusayed.github.io/qalbi-ma3ak-my-heart-is-with-you/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
@@ -18,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا قلبي إنت في روحي تعيش
+> بدونك أنا والله ما أعيش
+> نورك في ليلي مثل القمر
+> معاك أنا أنسى كل البشر
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
