@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/qalbi-ma3ak-my-heart-is-with-you/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Secure Licensing Rights for Qalbi Ma3ak – My Heart is with You](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
