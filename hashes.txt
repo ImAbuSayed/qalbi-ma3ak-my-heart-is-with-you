@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Qalbi Ma3ak – My Heart is with You
+
+This log tracks the cryptographic history and versioning for the song **Qalbi Ma3ak – My Heart is with You** (qalbi-ma3ak-my-heart-is-with-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T11:24:02.472122 | `v1` | `c1d53f1aba3301f580b8a26fd041208a9a42e126482747d29227f1e94d94c94b` | `8dac3fe38f85184e8938a138a14d689afc1847d405e30ab476b18c8f3b61019f` | `2026-05-09_qalbi-ma3ak-my-heart-is-with-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
